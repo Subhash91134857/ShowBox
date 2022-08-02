@@ -8,7 +8,7 @@ Also shows pretty programming icons using `devicons`.
 
 ## Inspiration
 
-Needed a way to display all my projects, used my [portfolio's project section](https://Subhash91138475.github.io/MyPortfolio/) as inspiration.
+Needed a way to display all my projects, used my [portfolio's project section](https://Subhash91134857.github.io/MyPortfolio/) as inspiration.
 
 ## Getting Projects
 
