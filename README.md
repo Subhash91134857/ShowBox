@@ -8,14 +8,14 @@ Also shows pretty programming icons using `devicons`.
 
 ## Inspiration
 
-Needed a way to display all my projects, used my [portfolio's project section](https://Subhash91138475.github.io/portfolio) as inspiration.
+Needed a way to display all my projects, used my [portfolio's project section](https://Subhash91138475.github.io/MyPortfolio/) as inspiration.
 
 ## Getting Projects
 
 To get projects, follow these steps:
 
 ```bash
-git clone https://github.com/2kabhishek/projects
+git clone https://github.com/Subhash91134857/ShowBox
 cd projects
 ```
 
